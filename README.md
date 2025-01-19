@@ -20,3 +20,5 @@ Run a few quick tests to ensure communication with the AxiDraw is working + moto
 chmod +x quick_test.sh
 ./quick_test.sh
 ```
+
+![Quick Test](./docs/test-preview.png)
